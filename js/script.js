@@ -12,7 +12,7 @@ function enterClicked() {
 
   let day = document.getElementById('day').value
   let age  = document.getElementById('age').value
-  console.log(day)
+
   // process
   // output
 
